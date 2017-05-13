@@ -1,7 +1,7 @@
 Sample Todo app 
 ============
 
-Using ASP.NET Core, Enity Framework Core, TypeScript and React/Redux. This is the Sample app for use at the Let's do CI/CD workshop.
+Using ASP.NET Core, Enity Framework Core, TypeScript and React/Redux. This is the Sample app for use at the Let's do CI/CD workshop. Problem fixed.
 
 ## Prerequisites
 
